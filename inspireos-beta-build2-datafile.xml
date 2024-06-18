@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <main>
    <notice>this file is an XML data file, to display info and data about the build, and is not an OS image</notice>
-   <buildnum>1</buildnum>
+   <buildnum>2</buildnum>
    <registry>
       <bootcount>1</bootcount>
       <buildnum>2</buildnum>
