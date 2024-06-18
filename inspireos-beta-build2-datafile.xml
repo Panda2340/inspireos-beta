@@ -4,8 +4,8 @@
    <buildnum>1</buildnum>
    <registry>
       <bootcount>1</bootcount>
-      <buildnum>1</buildnum>
-      <buildnumverify>1</buildnumverify>
+      <buildnum>2</buildnum>
+      <buildnumverify>2</buildnumverify>
     </registry>
     <codebugs>
         <bug>adding multiple items to the menu causes glitches</bug>
