@@ -33,10 +33,7 @@ def clear():
 clear()
 
 
-display.set_pen(WHITE)
-display.text("Initializing...", 10, 10, 240, 2)
-display.update()
-time.sleep(1)
+
 clear()
 display.text("InspireOS", 10, 50, 240, 4)
 display.text("Booting up...", 10, 80, 240, 2)
