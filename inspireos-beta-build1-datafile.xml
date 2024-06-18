@@ -31,7 +31,4 @@
 <openmenu>button a (from home screen)</openmenu>
 <menuscroll>button y</menuscroll>
 <menuselect>button x</menuselect>
-<errorcodes>
-   <errcode>516</errcode>
-</errorcodes>
 </main>
