@@ -44,8 +44,8 @@ display.update()
 time.sleep(3)
 boot = 1
 programs = ["System Info", "Demo App"]
-buildnum = 2
-buildnumverify = 2
+buildnum = 3
+buildnumverify = 3
 bootcount =+ 1
 builddate = "June 18, 2024"
 sysreg = ["buildnum:", buildnum, "bootcount:", bootcount, "buildnumverify:", buildnumverify, "build_date:", builddate, "-"]
