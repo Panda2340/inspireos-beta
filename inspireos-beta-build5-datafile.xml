@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+   <notice>this file is an XML data file, to display info and data about the build, and is not an OS image</notice>
+   <buildnum>4</buildnum>
+   <registry>
+      <bootcount>1</bootcount>
+      <buildnum>4</buildnum>
+      <buildnumverify>4</buildnumverify>
+    </registry>
+    <codebugs>
+        <bug>adding multiple items to the menu causes glitches</bug>
+    </codebugs>
+<apps>
+   <item>Demo App</item>
+   </apps>
+<builddate>2024-06-25</builddate>
+<repositorylink>https://github.com/Panda2340/inspireos-beta</repositorylink>
+<buildlink>https://github.com/Panda2340/inspireos-beta/blob/main/inspireos-beta-4inp.py</buildlink>
+<compatiblebuttons>x,y,a,b</compatiblebuttons>
+<device>rpi-pico/pico-w</device>
+<compatiblecpus>ARM Cortex M0+</compatiblecpus>
+<silicon>RP2040</silicon>
+<compatibledisplays>Pimoroni Pico Display Pack</compatibledisplays>
+<displaycolors>
+   <color>white</color>
+   <color>black</color>
+   <color>cyan</color>
+   <color>magenta</color>
+   <color>yellow</color>
+</displaycolors>
+<openmenu>button a (from home screen)</openmenu>
+<menuscroll>button y</menuscroll>
+<menuselect>button x</menuselect>
+</main>
