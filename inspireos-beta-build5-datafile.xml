@@ -13,7 +13,7 @@
 <apps>
    <item>Demo App</item>
    </apps>
-<builddate>2024-06-25</builddate>
+<builddate>2024-06-30</builddate>
 <repositorylink>https://github.com/Panda2340/inspireos-beta</repositorylink>
 <buildlink>https://github.com/Panda2340/inspireos-beta/blob/main/inspireos-beta-4inp.py</buildlink>
 <compatiblebuttons>x,y,a,b</compatiblebuttons>
