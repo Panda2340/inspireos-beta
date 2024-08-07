@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <main>
    <notice>this file is an XML data file, to display info and data about the build, and is not an OS image</notice>
-   <buildnum>4</buildnum>
+   <buildnum>5</buildnum>
    <registry>
       <bootcount>1</bootcount>
-      <buildnum>4</buildnum>
-      <buildnumverify>4</buildnumverify>
+      <buildnum>5</buildnum>
+      <buildnumverify>5</buildnumverify>
     </registry>
     <codebugs>
         <bug>adding multiple items to the menu causes glitches</bug>
