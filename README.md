@@ -5,3 +5,5 @@ InspireOS is still in beta. It doesn't have a stable build yet.
 Coming to InspireOS soon:
 - Date and time (that can be set by the user)
 - Settings console
+
+InspireOS Build 7 will be released on August 11, 2024 or August 12, 2024.
