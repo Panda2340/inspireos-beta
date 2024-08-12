@@ -36,7 +36,6 @@ clear()
 display.set_pen(WHITE)
 display.text("InspireOS", 10, 50, 240, 4)
 display.text("Booting up...", 10, 80, 240, 2)
-display.text("Note: This build of InspireOS has bugs.", 10, 100, 240, 2)
 display.update()
 time.sleep(3)
 programs = ["System Info", "Demo App"]
