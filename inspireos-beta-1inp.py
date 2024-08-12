@@ -50,11 +50,6 @@ else:
 sysreg = ["buildnum:", buildnum, "bootcount:", bootcount, "oobestatus:", oobestatus, "bootnumcheck:", bootnumcheck, "-"]
 clear()
 display.set_pen(WHITE)
-if bootnumcheck == 0:
-    display.text("Error 516", 15, 30, 240, 2)
-    display.text("For more info, visit:", 15, 45, 240, 2)
-    display.text("github.com/Panda2340/inspireos-beta/discussions/2", 15, 60, 240, 2)
-else:
   display.text("InspireOS Beta 1", 10, 10, 240, 4)
 display.text("Press A for menu", 10, 80, 240, 2)
 display.update()
