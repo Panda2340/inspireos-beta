@@ -49,10 +49,10 @@ builddate = "June 29, 2024"
 day = 1
 month = 1
 year = 2024
-currentdate = month + "-" + day + "-" + year
+currentdate = month, "-", day, "-", year
 hour = 00
 minute = 00
-time = hour + ":" + minute
+currenttime = hour, ":", minute
 sysreg = ["buildnum:", buildnum, "bootcount:", bootcount, "buildnumverify:", buildnumverify, "build_date:", builddate, "currentdate:", currentdate, "time:", time]
 
 
