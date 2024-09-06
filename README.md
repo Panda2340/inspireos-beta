@@ -1,3 +1,4 @@
+Note: Development for Build 7 has been delayed to Late December 2024/January 2025 due to testing hardware issues.
 InspireOS is an operating system built for the Raspberry Pi Pico.
 The datafiles are not OS images, they contain information about an InspireOS build.
 InspireOS is still in beta. It doesn't have a stable build yet. Some developer preview builds will be released, but the second one will be released once the beta builds are finished.
